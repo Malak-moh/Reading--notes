@@ -19,5 +19,5 @@ command | to do
 ------------ | -------------
 git commit| to incrementally "add" changes to the index before using the commit command (Note: even modified files must be "added");
  git add| to add any new or modified files to the index
-git push |Update remote refs along with associated objects
+git push | to Update remote refs along with associated objects
 
