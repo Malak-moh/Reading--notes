@@ -1,19 +1,23 @@
 
 
-**my name is malak i would to talk about social media**
+**my name is malak i would to talk about git**
 
-[link to twittr](https://twitter.com)
+So, what is Git in a nutshell? This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, then using Git effectively will probably be much easier for you. As you learn Git, try to clear your mind of the things you may know about other VCSs, such as CVS, Subversion or Perforce — doing so will help you avoid subtle confusion when using the tool. Even though Git’s user interface is fairly similar to these other VCSs, Git stores and thinks about information in a very different way, and understanding these differences will help you avoid becoming confused while using it.
 
-[link to facebook](https://facebook.com)
-
-[link to whatsapp](https://https://web.whatsapp.com/.com)
+[git commit](https://git-scm.com/docs/git-commit)
 
 
+[git add](https://git-scm.com/docs/git-add)
 
 
-app | benefit 
+[link push](https://git-scm.com/docs/git-push)
+
+
+
+
+command | to do 
 ------------ | -------------
-face book| as a window for vaious news media
-twittr |Twitter offers a lot of useful content and knowledge
-whatsapp |An easy and fast way of communication between friends and family
+git commit| to incrementally "add" changes to the index before using the commit command (Note: even modified files must be "added");
+ git add| to add any new or modified files to the index
+git push |Update remote refs along with associated objects
 
