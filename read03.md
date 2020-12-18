@@ -3,12 +3,14 @@
 
 Git can be installed in three ways:
 
--Install as a package
--Install via another installer
--Download and compile the source code.
+- Install as a package
+
+- Install via another installer
+ 
+- Download and compile the source code.
 
 
-###Terminal
+### Terminal
 
 The simplest method for installing Git on a Mac (for Mavericks 10.9 and above) is running Git from the Terminal. If Git is not installed, you will see a prompt for installation.
 
