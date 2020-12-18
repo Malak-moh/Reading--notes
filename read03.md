@@ -17,11 +17,11 @@ The simplest method for installing Git on a Mac (for Mavericks 10.9 and above) i
 
 You can try installing Git via your distribution’s inherent package management tool.
 
-For Fedora:
+### For Fedora:
 
 $ sudo yum install git
 
-For Ubuntu:
+### For Ubuntu:
 
 $ sudo apt-get install git
 
