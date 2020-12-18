@@ -16,9 +16,11 @@ CSS describes how HTML elements should be displayed.
  |tag |description
  |------------ | -------------
 |<!DOCTYPE>|Defines the document type |
- |#<a>|Defines a hyperlink |
-|#<b>|Defines bold text |
-|#<body>|Defines the document's body |
+ |a|Defines a hyperlink |
+|b|Defines bold text |
+|body|Defines the document's body |
+   
+   this tags must be in <>.
 
 
 
