@@ -28,7 +28,7 @@ html starting with the html layer allows you to foucas on the most important thi
       <tr>
         <td>1</td>
         <td><strong>Creating a Basic JavaScript</strong></td>
-        <td><a href="index.html">aindex.html</a></td>
+        <td><a href="home.html">index.html</a></td>
         <td><a href="js/practice.js">practice.js</a></td>
       </tr>
     </table>
