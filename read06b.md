@@ -12,3 +12,6 @@ stop its brain from overheating!
 ## Output:
 Your computer probably has an LCD screen capable of displaying high-resolution (very detailed) graphics,
 and probably also stereo loudspeakers. You may have an inkjet printer on your desk too to make a more permanent form of output.
+
+Software control in to hardware works.
+
