@@ -14,7 +14,7 @@ If different parts of a script repeat the same task, you can reuse the function
 ** Declaring Functions and Calling it**
 
 
-NAME	OPERATOR	PURPOSE & NOTES	EXAMPLE	
+**NAME	OPERATOR and what is for**
 
 ADDITION	+	Adds one value to another	
 
