@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>أنواع القطط</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+    color:hsl(9, 100%, 64%);
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color:rgb(255, 50, 71);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+ 
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+
+<div class="row">
+  <div class="column side">
+    <h2>أولاً</h2>
+    <p> القط الشيرازي</p>
+  </div>
+  
+  <div class="column middle">
+    <h2>ثانيا</h2>
+    <p> القط ميست الاسترالي
+    </p>
+  
+  </div>
+  
+  <div class="column side">
+    <h2>ثالثا</h2>
+    <p> القط الحبشي</p>
+  </div>
+</div>
+  
+</body>
+</html>
