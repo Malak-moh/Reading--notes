@@ -7,4 +7,5 @@ important tools you can use as an aspiring web developer.
 
 Syntax highlighting is a feature that takes the text you
 type, and makes it more noticeable by colorizing the text
-![text editor](https://www.google.com/search?q=text+editor&rlz=1C1GGRV_enJO825JO825&sxsrf=ALeKk01fFz3m6G0MdNpImjCXYVsYMU9taA:1608411120731&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHzYOs9trtAhXnyYUKHUOOCSQQ_AUoAXoECAIQAw&biw=1366&bih=600#imgrc=cDnLjP3SIGpnDM.png)
+![text editor](C:\Users\user\Desktop\Atom-Text-Editor-for-Linux.png)
+
