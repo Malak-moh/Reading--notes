@@ -1,8 +1,9 @@
 DATA TYPES
-numeric data type
-string data type
-boolean data type
-array is special type of variable ( list of values)
+-numeric data type
+-string data type
+-boolean data type
+-array is special type of variable ( list of values)
+
 
 operators is expressions rely on things
 
@@ -10,7 +11,7 @@ operators is expressions rely on things
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 ** Declaring Functions and Calling it**
 
- (Links to an external site.)** Javascript have various of mathematical operators**
+
 NAME	OPERATOR	PURPOSE & NOTES	EXAMPLE	
 ADDITION	+	Adds one value to another	
 SUBTRACTION	-	Subtracts one value from another	
